@@ -1,8 +1,8 @@
 {
-	"name": "coldtrick/account_removal",
-	"description": "Offers users the ability to remove their account from the network",
+	"name": "pleio/account_removal",
+	"description": "Allows users to remove their account",
 	"type": "elgg-plugin",
-	"keywords": ["elgg", "plugin", "tools"],
+	"keywords": ["elgg", "plugin"],
 	"license": "GPL-2.0",
 	"support": {
 		"source": "https://github.com/ColdTrick/account_removal",
