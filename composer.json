@@ -1,5 +1,5 @@
 {
-	"name": "coldtrick/account_removal",
+	"name": "pleio/account_removal",
 	"description": "Allows users to remove their account",
 	"type": "elgg-plugin",
 	"keywords": ["elgg", "plugin"],
